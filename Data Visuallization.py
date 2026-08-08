@@ -43,4 +43,3 @@ plt.ylabel('Country')
 plt.tight_layout()
 plt.savefig('Top_Ten_countries.png')
 plt.show()
-
